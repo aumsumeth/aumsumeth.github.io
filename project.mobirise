@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Altotech",
-    "currentPage": "Home.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "workshopamp",
       "title": "WorkshopAMP",
@@ -1795,7 +1795,7 @@
         }
       ]
     },
-    "Home.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Altotech",
