@@ -87,7 +87,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "canonical-url": "",
     "cookiesAlert": {
       "colorText": "#424a4d",
@@ -106,7 +106,7 @@
     },
     "": "on",
     "sitemapSwitcher": false,
-    "pwa-switcher": true
+    "pwa-switcher": false
   },
   "pages": {
     "contact.html": {
